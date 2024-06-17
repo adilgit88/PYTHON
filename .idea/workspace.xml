@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3a40fed4-38e6-4852-b25a-e42711401a01" name="Changes" comment="">
+    <list default="true" id="3a40fed4-38e6-4852-b25a-e42711401a01" name="Changes" comment="username_generator project">
       <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
@@ -60,6 +60,19 @@
       <option name="presentableId" value="Default" />
       <updated>1718656934826</updated>
     </task>
+    <task id="LOCAL-00001" summary="username_generator project">
+      <option name="closed" value="true" />
+      <created>1718658081583</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1718658081583</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="username_generator project" />
+    <option name="LAST_COMMIT_MESSAGE" value="username_generator project" />
   </component>
 </project>
